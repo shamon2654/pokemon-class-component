@@ -1,0 +1,19 @@
+/* Search style */
+.search {
+    padding: 30px 2px 20px 40%;
+  }
+  .search input {
+    border-radius: 50px;
+    width: 130px;
+    height: 35px;
+    text-align: center;
+    transition: 0.3s;
+  }
+  .search input:focus {
+    width: 180px;
+    cursor: pointer;
+  }
+  .search input:hover {
+    width: 180px;
+    cursor: pointer;
+  }
